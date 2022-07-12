@@ -1,0 +1,16 @@
+apple=sib
+onion=piaz
+tree=derakht
+bag=kif
+pen=khodkar
+i=man
+you=shoma
+is=hast
+are=hastand
+hello=salam
+how=chetor
+thanks=moteshaker
+sister=khahar
+brother=baradar
+buy=kharid
+this=in
