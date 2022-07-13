@@ -52,7 +52,8 @@ def Save():
     myfile=open('translate-data.txt','w')
     for i in range (len(dictionary)):
         myfile.write(dictionary[i]['english']+"="+dictionary[i]['persian'])
-        myfile.write('\n')
+        if i<len(dictionary)-1):
+            myfile.write('\n')
     myfile.close()
 
 
